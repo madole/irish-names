@@ -1089,4 +1089,4 @@ module.exports = {
     'Mac Cutcheon': 'Mac Úistín',
     'Cuthbert(son)': 'Mac Cúibreith',
     'Cuthbertson': 'Mac Cúibreith'
-}
+};

@@ -1,0 +1,18 @@
+module.exports = {
+    'Daisey': 'Nóinín'
+    'Daphne': 'Daifne'
+    'Darina': 'Dáiríne'
+    'Deirdre': 'Deirdre'
+    'Deborah': 'Gobnait'
+    'Delia': 'Bríd'
+    'Derval': 'Dearbháil'
+    'Dervilla': 'Dearbháil'
+    'Devnet': 'Damhnait'
+    'Diana': 'Diána'
+    'Dillie': 'Brídín'
+    'Dina': 'Brídín'
+    'Dolly': 'Doireann'
+    'Dorothy': 'Doireann'
+    'Doreen': 'Dóirín'
+    'Dymphna': 'Damhnait'
+}
