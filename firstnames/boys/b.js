@@ -1,6 +1,6 @@
 module.exports = {
     'Barclay': 'Parthalán',
-    'Barnaby': 'Brian g. Briain',
+    'Barnaby': 'Brian',
     'Barney': 'Brian',
     'Barry': 'Barra',
     'Bartlemy': 'Bairtliméad',
@@ -23,6 +23,6 @@ module.exports = {
     'Bran': 'Bran',
     'Brasil': 'Breasal',
     'Brendan': 'Breandán',
-    'Brian': 'Brian g. Briain',
-    'Buach': 'Buach g. Buaigh'
-}
+    'Brian': 'Brian',
+    'Buach': 'Buach'
+};

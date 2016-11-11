@@ -41,4 +41,4 @@ module.exports = {
     'Cullo': 'Cú Uladh',
     'Cumin': 'Coimín',
     'Cyril': 'Coireall'
-}
+};
