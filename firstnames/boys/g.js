@@ -1,0 +1,22 @@
+module.exports = {
+    'Gabriel': 'Gaibriél',
+    'Garrett': 'Gearóid',
+    'Garvan': 'Garbhán',
+    'Gay': 'Gaibriél',
+    'Geoffrey': 'Séafra',
+    'George': 'Seoirse',
+    'Gerald': 'Gearalt',
+    'Gerard': 'Gearard',
+    'Gibbon': 'Giobún',
+    'Gilbert': 'Gilbeirt',
+    'Gilbride': 'Giolla Bhríde',
+    'Gildea': 'Giolla Dé',
+    'Gillesa': 'Giolla Íosa',
+    'Gill': 'Giolla Íosa',
+    'Gilvarry': 'Giolla Bhearaigh',
+    'Glasney': 'Glaisne',
+    'Godfrey': 'Gothraidh',
+    'Gordan': 'Gordan',
+    'Gorry': 'Gothraidh',
+    'Gregory': 'Gréagóir'
+}
