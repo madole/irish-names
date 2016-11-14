@@ -1,0 +1,21 @@
+module.exports = {
+    'Jacob': 'Íácób',
+    'James': 'Séamas',
+    'Ian': 'Eoin',
+    'Ian': 'Eoin',
+    'Jarlath': ['Iarlaith', 'Iarlatha'],
+    'Jarmy': 'Diarmaid',
+    'Jasper': 'Geaspar',
+    'Jeffrey': 'Séafra',
+    'Geoffrey': 'Séafra',
+    'Jeremiah': 'Diarmaid',
+    'Jerry': 'Diarmaid',
+    'Jerome': 'Diarmaid',
+    'Jimmy': 'Séimí',
+    'John': 'Seán',
+    'John Baptist': 'Eoin Baiste',
+    'Joseph': 'Seosamh',
+    'Julian': 'Gilleán',
+    'Juilus': 'Iúil',
+    'Justin': 'Saerbhreathach'
+}
